@@ -1,7 +1,7 @@
 # ML-Workflow-for-Scones-Unlimited
 
 ## Overview
-This project is part of the advanced phase of AWS AI & ML Scholarship Program, focusing on building the entire end-to-end workflow for deploying and monitoring an image classification model for a company Scones Unlimited using Amazon SageMaker.
+This project focuses on building the entire end-to-end workflow for deploying and monitoring an image classification model for a company Scones Unlimited using Amazon SageMaker.
 
 ## Getting Started
 
@@ -31,3 +31,6 @@ A state machine is built using AWS step functions to test and monitor the workfl
 
 ## Conclusion
 This project successfully implements an end-to-end ML workflow, utilizing technologies such as Amazon SageMaker, AWS Step Functions, Lambda functions, and S3 for efficient image classification, deployment, and monitoring for Scones Unlimited.
+
+### Source
+This was the final project of the Machine Learning Fundamentals Nanodegree on Udacity as part of the advanced phase of the AWS AI & ML scholarship program in 2023.
