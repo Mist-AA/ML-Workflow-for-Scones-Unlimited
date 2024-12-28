@@ -31,6 +31,3 @@ A state machine is built using AWS step functions to test and monitor the workfl
 
 ## Conclusion
 This project successfully implements an end-to-end ML workflow, utilizing technologies such as Amazon SageMaker, AWS Step Functions, Lambda functions, and S3 for efficient image classification, deployment, and monitoring for Scones Unlimited.
-
-### Source
-This was the final project of the Machine Learning Fundamentals Nanodegree on Udacity as part of the advanced phase of the AWS AI & ML scholarship program in 2023.
